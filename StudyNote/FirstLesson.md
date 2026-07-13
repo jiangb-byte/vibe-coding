@@ -21,5 +21,5 @@ Push it to GitHub once completed.
 
 ### How to find a reposiroty link
 
-![How to find reposiroty Link in Github](image.png)
+![How to find reposiroty Link in Github](images/GitRepositoryLink.png)
 
