@@ -23,3 +23,19 @@ Push it to GitHub once completed.
 
 ![How to find reposiroty Link in Github](images/GitRepositoryLink.png)
 
+### *** How to add Github information in local PC *** 
+1. Check by run "git config --global --list"
+Expect result
+PS C:\Users\jiangb\OneDrive - Avaya\Documents\@Working@Avaya\Project2026\vibe-coding> git config --global --list
+
+   - user.name=jiangb-byte
+   
+   - user.email=jiangb@avaya.com
+
+2. If blank, we could add it manually
+
+    - git config --global user.name "jiangb-byte"
+
+    - git config --global user.email "jiangb@avaya.com"
+
+
