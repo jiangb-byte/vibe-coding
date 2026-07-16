@@ -15,7 +15,6 @@
    1. sudo apt update && sudo apt upgrade -y
 2. Install GCC and Development Tools
    1. sudo apt install build-essential gdb -y  *(This command installs gcc (C compiler), g++ (C++ compiler), make, and gdb (debugger))*
-3.  
 
 ```c
 #include <stdio.h>
