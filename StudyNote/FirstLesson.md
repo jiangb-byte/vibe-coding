@@ -4,7 +4,7 @@ You can find the training materials here: https://avaya.atlassian.net/wiki/space
 
 
 
-## Required Practice for the first topic (Git):
+!!! note Required Practice for the first topic (Git):
 
 Sign up for a GitHub account.
 
@@ -19,11 +19,11 @@ Write your first Markdown note (Learn Git) in VS Code.
 Push it to GitHub once completed.
 
 
-### How to find a reposiroty link
+!!! question How to find a reposiroty link
 
 ![How to find reposiroty Link in Github](images/GitRepositoryLink.png)
 
-### *** How to add Github information in local PC *** 
+!!! question How to add Github information in local PC
 1. Check by run "git config --global --list"
 Expect result
 PS C:\Users\jiangb\OneDrive - Avaya\Documents\@Working@Avaya\Project2026\vibe-coding> git config --global --list
