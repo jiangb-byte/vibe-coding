@@ -9,7 +9,7 @@
 
 ```
 
-### Install GCC
+### Install GCC on WSL2
 
 1. In WSL, run 
    1. sudo apt update && sudo apt upgrade -y
@@ -17,8 +17,16 @@
    1. sudo apt install build-essential gdb -y  *(This command installs gcc (C compiler), g++ (C++ compiler), make, and gdb (debugger))*
 3.  
 
-
-a program and a process.
+```c
+#include <stdio.h>
+int main()
+      {
+      printf ("GCC is working on WSL!\n");
+      return 0;
+      }
+```
+ 
+### Program vs Process
 |Feature|Program|Process|
 | ---  | --- | --- |
 |State |Passive (resides quietly on your storage disk)|Active (loaded into RAM and executing)|
