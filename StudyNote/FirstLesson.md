@@ -3,20 +3,19 @@ My Github URL: https://github.com/jiangb-byte
 You can find the training materials here: https://avaya.atlassian.net/wiki/spaces/DLBBEWIKI/pages/2398945477/Git
 
 
-
 !!! note Required Practice for the first topic (Git):
 
-Sign up for a GitHub account.
+- Sign up for a GitHub account.
 
-Create a repository in your account.
+- Create a repository in your account.
 
-Install Git and VS Code on your PC.
+- Install Git and VS Code on your PC.
 
-Clone the new repository to your PC and open it via VS Code.
+- Clone the new repository to your PC and open it via VS Code.
 
-Write your first Markdown note (Learn Git) in VS Code.
+- Write your first Markdown note (Learn Git) in VS Code.
 
-Push it to GitHub once completed.
+> Push it to GitHub once completed.
 
 
 !!! question How to find a reposiroty link
@@ -32,7 +31,7 @@ PS C:\Users\jiangb\OneDrive - Avaya\Documents\@Working@Avaya\Project2026\vibe-co
    
    - user.email=jiangb@avaya.com
 
-2. If blank, we could add it manually
+1. If blank, we could add it manually
 
     - git config --global user.name "jiangb-byte"
 
